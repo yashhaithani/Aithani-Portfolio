@@ -103,6 +103,13 @@
         align-items: center;
         text-align: center;
     }
+    #Firstpage{
+      background-image: url('assets/Phone BG.png');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+}
     .section__pic-container .bounce{
       margin-left: 0px;
     }
