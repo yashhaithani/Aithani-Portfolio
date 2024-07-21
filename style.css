@@ -344,9 +344,9 @@ section {
   height: 80%;
 }
 
-.section__pic-container {
-  height: 400px;
-  width: 400px;
+.section-container .section__pic-container img{
+  height: 300px;
+  width: 250px;
 }
 
 /* EXPERIENCE SECTION */
